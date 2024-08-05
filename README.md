@@ -20,4 +20,6 @@ Welcome to my projects portfolio! Below are the links to each project:
 
 ## 9. [PresentSeek](https://github.com/Priyanshu-web-tech/PresentSeek)
 
-Feel free to explore each project's repository for more details and contributions!
+## 10. [Clientify](https://github.com/Priyanshu-web-tech/clientify)
+
+Feel free to explore each project's repository/Live Link for more details and contributions!
